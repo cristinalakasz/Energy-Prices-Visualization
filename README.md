@@ -1,4 +1,4 @@
-# IN3110 Assignment 5: Strømpris API
+# Energy Prices Visualization
 
 Web-based visualization of energy prices in Norway using: Hva Koster Strømmen API.
 
@@ -39,15 +39,3 @@ or:
 ```
 http://localhost:5000
 ```
-
-## Testing
-
-Completed tasks:
-
-- 5.1
-- 5.2
-- 5.3
-- 5.4 NO as I am in IN3110
-- 5.5
-- 5.6
-- 5.7 NOT DONE
